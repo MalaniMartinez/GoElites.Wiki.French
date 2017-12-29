@@ -1,6 +1,6 @@
 ### Comment ça fonctionne
 
-GoElites fonctionne sur une base * All-In-One *, ce qui signifie que tout ce dont nous pensons que le joueur a besoin dans le jeu est inclus dans un paquet et est chargé sans aucun paramètre supplémentaire requis. Chaque module, cependant, est hautement personnalisable et peut être ajusté en fonction des préférences de l'utilisateur en utilisant le menu dans le jeu. Chaque module peut également être désactivé. Cela nous permet de garder GoElites facile à installer et à utiliser sans compromettre l'utilisation CPU et RAM.
+GoElites fonctionne sur une base *All-In-One*, ce qui signifie que tout ce dont nous pensons que le joueur a besoin dans le jeu est inclus dans un paquet et est chargé sans aucun paramètre supplémentaire requis. Chaque module, cependant, est hautement personnalisable et peut être ajusté en fonction des préférences de l'utilisateur en utilisant le menu dans le jeu. Chaque module peut également être désactivé. Cela nous permet de garder GoElites facile à installer et à utiliser sans compromettre l'utilisation CPU et RAM.
 
 ### Touches par défaut
 
