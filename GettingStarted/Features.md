@@ -50,7 +50,7 @@ Si activé, remplace votre skin par celui que vous avez sélectionné dans le me
 | **Spell tracker**: Enemy | Active le Spell tracker pour les champions ennemis. |
 | **Spell tracker**: Localplayer | Active le Spell tracker pour votre champion. |
 | **Spell tracker**: HP Bar X,Y | Vous permet de modifier l'emplacement du suivi des sorts par rapport à l'emplacement de la barre de points de vie. **Note**: les valeurs par défaut sont 0, 0. |
-| **HUD** | Affiche le HUD avec les informations suivantes sur les champions ennemis: *sorts d'invocateur*, *niveau actuel ou dernier vu*, *points de vie actuel et mana actuelle ou dernir vu*, *temps non-vue*, *disponibilité de l' ultime*. | 
+| **HUD** | Affiche le HUD avec les informations suivantes sur les champions ennemis: *sorts d'invocateur*, *niveau actuel ou dernier vu*, *points de vie actuel et mana actuelle ou dernier vu*, *temps non-vue*, *disponibilité de l' ultime*. | 
 | **HUD**: Position X,Y | Vous permet de changer l'emplacement du HUD sur l'écran. |
 | **HUD**: Scale | Vous permet de changer l'échelle du HUD. **Note**: la valeur par défaut est 60 |
 | **Gank alert** | Affiche une ligne qui indique la distance à un allié des champions ennemis qui sont proches de vous mais ne rentrent pas à l'écran. Plus la ligne est grosse, plus la distance est proche. Les lignes vertes représentent les champions alliés, les lignes rouges représentent les champions ennemis. |
